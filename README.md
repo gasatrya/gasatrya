@@ -5,7 +5,7 @@
 🚀 I'm a seasoned developer focused on creating elegant solutions to complex problems  
 💻 Specialized in web development with modern technologies  
 🎯 Building robust and scalable web applications  
-👨‍💻 Available for WordPress projects at [2SecondCode](https://www.2secondcode.com)
+👨‍💻 I build strategic websites that showcase your authority and attract high-value clients ready to pay what you're worth. [2SecondCode](https://www.2secondcode.com)
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +21,6 @@
 
 - [25minute](https://www.25minute.com): 25minute is your free, instant-access companion for deep work sessions. No account needed, no complications - just click and start your journey to distraction-free productivity today.
 - [keycaps](https://www.keycaps.app): Free, interactive typing speed test with real-time feedback. Practice daily to boost your WPM and accuracy with our modern, distraction-free platform.
-- [2SecondCode](https://www.2secondcode.com): Professional WordPress development services, specializing in custom themes, plugins, and performance optimization.
 
 ## 📊 GitHub Stats
 
