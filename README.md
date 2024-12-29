@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Satrya
+# Hi there! 👋 I'm Ga Satrya
 
 ## About Me
 
 🚀 I'm a seasoned developer focused on creating elegant solutions to complex problems  
 💻 Specialized in web development with modern technologies  
 🎯 Building robust and scalable web applications  
-👨‍💻 I build strategic websites that showcase your authority and attract high-value clients ready to pay what you're worth. [2SecondCode](https://www.2secondcode.com)
+👨‍💻 I build strategic websites that showcase your authority and attract high-value clients ready to pay what you're worth. [2 Second Code](https://www.2secondcode.com)
 
 ## 🛠️ Tech Stack
 
@@ -30,8 +30,9 @@
 
 - [LinkedIn](https://linkedin.com/in/gasatrya)
 - [Twitter](https://x.com/gasatrya)
-- [Bluesky](https://bsky.app/profile/gasatrya.dev)
+- [Bluesky](https://bsky.app/profile/gasatrya.bsky.social)
 
 ---
 
-⭐️ From [gasatrya](https://github.com/gasatrya)
+Best regards,
+Ga Satrya
