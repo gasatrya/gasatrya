@@ -15,6 +15,7 @@
 - Deployment & Hosting: Vercel, cPanel, VPS
 - Build Tools: Vite
 - CMS: WordPress
+- AI Tools: Aider & Codeium
 - AI Models: Anthropic Sonnet 3.5 & DeepSeek V3
 
 ## 🌟 Featured Projects
