@@ -9,13 +9,13 @@
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript/TypeScript, React/Next.js
+- Frontend: HTML, CSS, JavaScript/TypeScript, React/Next.js, Astro
 - Backend: PHP, Node.js/Express.js, Next.js
 - Development Tools: VS Code, Git, GitHub
 - Deployment & Hosting: Vercel, cPanel, VPS
 - Build Tools: Vite
 - CMS: WordPress
-- AI Tools: Aider & Codeium
+- AI Tools: Aider & GitHub Copilot
 - AI Models: Anthropic Sonnet 3.5 & DeepSeek V3
 
 ## 🌟 Featured Projects
