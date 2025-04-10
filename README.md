@@ -6,23 +6,36 @@
 💻 Specialized in web development with modern technologies  
 🎯 Building robust and scalable web applications  
 
-## 🚀 My Business: 2 Second Code
+## 🚀 My Businesses
+
+### 2 Second Code
 
 I run [2 Second Code](https://www.2secondcode.com), a specialized landing page development service with a focus on rapid delivery and high conversion rates.
 
-### What We Offer:
+#### What We Offer:
 - ⚡ High-converting landing pages delivered in just 24 hours
 - 🎯 Conversion-focused designs that drive real business results
 - 🔄 Hassle-free process from concept to launch
 - 🖥️ Mobile-responsive, SEO-optimized, and ready to convert
 
-### Why Choose Us:
+#### Why Choose Us:
 - 🕒 Save valuable time with our 24-hour turnaround
 - 💰 One-time cost vs. monthly subscriptions
 - 🛠️ Expert implementation with no DIY headaches
 - ✅ Complete solution including design, technical implementation, and legal compliance
 
 [**Get Your Landing Page Now →**](https://www.2secondcode.com)
+
+### Freelance WordPress Development
+
+I also provide professional WordPress development services at [gasatrya.dev](https://gasatrya.dev), specializing in:
+- 🔧 Custom WordPress theme development
+- 🧩 Plugin development and customization
+- 🚀 Performance optimization
+- 🛡️ Security implementation
+- 🔄 Website maintenance and support
+
+[**Hire Me For Your WordPress Project →**](https://gasatrya.dev)
 
 ## 🛠️ Tech Stack
 
