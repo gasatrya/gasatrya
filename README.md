@@ -42,7 +42,7 @@ I also provide professional WordPress development services at [gasatrya.dev](htt
 - Frontend: HTML, CSS, JavaScript/TypeScript, React/Next.js, Astro
 - Backend: PHP, Node.js/Express.js, Next.js
 - Development Tools: VS Code, Git, GitHub
-- Deployment & Hosting: Vercel, cPanel, VPS
+- Deployment & Hosting: Vercel, Netlify, cPanel, VPS
 - Build Tools: Vite
 - CMS: WordPress
 - AI Tools: Aider & GitHub Copilot
