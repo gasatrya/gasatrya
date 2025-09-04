@@ -2,9 +2,7 @@
 
 ## About Me
 
-🚀 I'm a seasoned developer focused on creating elegant solutions to complex problems  
-💻 Specialized in web development with modern technologies  
-🎯 Building robust and scalable web applications  
+I audit, design, and build conversion-focused marketing sites for B2B SaaS.
 
 ## 🚀 My Businesses
 
