@@ -8,34 +8,20 @@
 
 ## 🚀 My Businesses
 
-### 2 Second Code
+### CTA Flow
 
-I run [2 Second Code](https://www.2secondcode.com), a specialized landing page development service with a focus on rapid delivery and high conversion rates.
+I run [CTA Flow](https://www.ctaflow.com), a specialized conversion-focused marketing website for B2B SaaS.
 
 #### What We Offer:
-- ⚡ High-converting landing pages delivered in just 24 hours
-- 🎯 Conversion-focused designs that drive real business results
-- 🔄 Hassle-free process from concept to launch
-- 🖥️ Mobile-responsive, SEO-optimized, and ready to convert
+- Complete B2B SaaS buyer journey optimization
+- Psychology-driven copy & design
+- Strategic information architecture
+- Full SEO optimization
+- Analytics tracking setup
 
-#### Why Choose Us:
-- 🕒 Save valuable time with our 24-hour turnaround
-- 💰 One-time cost vs. monthly subscriptions
-- 🛠️ Expert implementation with no DIY headaches
-- ✅ Complete solution including design, technical implementation, and legal compliance
+Tired of beautiful websites that don't convert? We specialize in B2B SaaS marketing sites that turn your traffic into qualified leads - typically seeing 20-50% more demo requests and sales conversations within 60 days.
 
-[**Get Your Landing Page Now →**](https://www.2secondcode.com)
-
-### Freelance WordPress Development
-
-I also provide professional WordPress development services at [gasatrya.dev](https://gasatrya.dev), specializing in:
-- 🔧 Custom WordPress theme development
-- 🧩 Plugin development and customization
-- 🚀 Performance optimization
-- 🛡️ Security implementation
-- 🔄 Website maintenance and support
-
-[**Hire Me For Your WordPress Project →**](https://gasatrya.dev)
+[**Get Your Marketing Website Today →**](https://www.ctaflow.com)
 
 ## 🛠️ Tech Stack
 
@@ -44,9 +30,9 @@ I also provide professional WordPress development services at [gasatrya.dev](htt
 - Development Tools: VS Code, Git, GitHub
 - Deployment & Hosting: Vercel, Netlify, cPanel, VPS
 - Build Tools: Vite
-- CMS: WordPress
-- AI Tools: Aider & GitHub Copilot
-- AI Models: Anthropic Sonnet 3.5 & DeepSeek V3
+- CMS/Builder: WordPress, Webflow, Framer
+- AI Tools: Warp & GitHub Copilot
+- AI Models: Anthropic Sonnet & DeepSeek
 
 ## 🌟 Featured Projects
 
@@ -61,7 +47,6 @@ I also provide professional WordPress development services at [gasatrya.dev](htt
 
 - [LinkedIn](https://linkedin.com/in/gasatrya)
 - [Twitter](https://x.com/gasatrya)
-- [Bluesky](https://bsky.app/profile/gasatrya.bsky.social)
 
 ---
 
