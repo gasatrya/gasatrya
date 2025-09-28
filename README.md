@@ -1,47 +1,35 @@
 # Hi there! 👋 I'm Ga Satrya
 
-## About Me
+### 👨‍💻 About Me
+I'm a web developer and founder helping businesses turn their websites into marketing machines.  
+With 8+ years of WordPress and software development experience (and the last 2 years working with Next.js),  
+I design and build **fast, conversion-focused WordPress marketing websites** that actually help businesses grow.  
 
-I audit, design, and build conversion-focused marketing sites for B2B SaaS.
+### 🚀 What I’m Working On
+- [WordPress Marketing Websites](https://www.ctaflow.com) → Productized services to build lead-focused sites in 7–14 days  
+- Free WordPress plugins & themes → building in public as part of my marketing strategy  
+- Case studies on performance + conversion improvements  
 
-## 🚀 My Businesses
+> “Most business websites look nice but don’t convert. I build fast, lead-focused WordPress sites that do.”  
 
-### CTA Flow
+### 🛠️ Tech Stack
 
-I run [CTA Flow](https://www.ctaflow.com), a specialized conversion-focused marketing website for B2B SaaS.
-
-#### What We Offer:
-- Complete B2B SaaS buyer journey optimization
-- Psychology-driven copy & design
-- Strategic information architecture
-- Full SEO optimization
-- Analytics tracking setup
-
-Tired of beautiful websites that don't convert? We specialize in B2B SaaS marketing sites that turn your traffic into qualified leads - typically seeing 20-50% more demo requests and sales conversations within 60 days.
-
-[**Get Your Marketing Website Today →**](https://www.ctaflow.com)
-
-## 🛠️ Tech Stack
-
-- Frontend: HTML, CSS, JavaScript/TypeScript, React/Next.js, Astro
-- Backend: PHP, Node.js/Express.js, Next.js
-- Development Tools: VS Code, Git, GitHub
-- Deployment & Hosting: Vercel, Netlify, cPanel, VPS
-- Build Tools: Vite
-- CMS/Builder: WordPress, Webflow, Framer
+- WordPress (themes, plugins, ACF, Gutenberg, WooCommerce)  
+- Next.js & React  
+- Tailwind CSS  
 - AI Tools: Warp & GitHub Copilot
-- AI Models: Anthropic Sonnet & DeepSeek
+- AI Models: GPT-5 & Sonnet
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 - [25minute](https://www.25minute.com): 25minute is your free, instant-access companion for deep work sessions. No account needed, no complications - just click and start your journey to distraction-free productivity today.
 - [keycaps](https://www.keycaps.app): Free, interactive typing speed test with real-time feedback. Practice daily to boost your WPM and accuracy with our modern, distraction-free platform.
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasatrya&layout=compact&theme=radical)
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/gasatrya)
 - [Twitter](https://x.com/gasatrya)
