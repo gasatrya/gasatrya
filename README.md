@@ -1,35 +1,40 @@
-# Hi there! 👋 I'm Ga Satrya
+# Ga Satrya
 
-### 👨‍💻 About Me
-I'm a web developer and founder helping businesses turn their websites into marketing machines.  
-With 8+ years of WordPress and software development experience (and the last 2 years working with Next.js),  
-I design and build **fast, conversion-focused WordPress marketing websites** that actually help businesses grow.  
+I build fast, conversion-focused websites and web apps using AI to deliver 3x faster.
 
-### 🚀 What I’m Building On
-- [WordPress Marketing Websites](https://www.ctaflow.com) → Productized services to build lead-focused sites in 7–14 days  
-- WordPress block themes
-- [Typetap](https://www.typetap.xyz/): Free, interactive typing speed test with real-time feedback. Practice daily to boost your WPM and accuracy with our modern, distraction-free platform.
+**8+ years experience** in WordPress and modern web development (Next.js, Tanstack Start). I turn business requirements into production-ready solutions in days, not months.
 
-> “Most business websites look nice but don’t convert. I build fast, lead-focused WordPress sites that do.”  
+## What I Build
 
-### 🛠️ Tech Stack
+- **WordPress Marketing Sites** → Lead-focused, fast-loading, SEO-optimized websites
+- **Modern Web Apps** → Next.js and Tanstack Start applications
+- **Block Themes & Plugins** → Custom WordPress solutions
 
-- WordPress (themes, plugins, ACF, Gutenberg, WooCommerce)  
-- Next.js/Tanstack Start & React  
-- Tailwind CSS  
-- AI Tools: Warp & GitHub Copilot
-- AI Models: DeepSeek / Qwen
+### Active Projects
+- [CTAflow](https://www.ctaflow.com) — Productized WordPress marketing sites (7–14 day delivery)
+- [Typetap](https://www.typetap.xyz/) — Interactive typing speed test
+- [Predicte](https://github.com/gasatrya/predicte) — VS Code AI code completion extension (in progress)
+- [LLMsModels](https://github.com/gasatrya/llmsmodels) — AI models directory (in progress)
 
-### 📊 GitHub Stats
+## Why I Use AI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasatrya&layout=compact&theme=radical)
+Building with AI tools isn't a shortcut—it's my competitive advantage. I leverage AI to:
+- Ship features 3x faster
+- Iterate rapidly with clients
+- Maintain code quality and consistency
+- Focus on business logic, not boilerplate
 
-### 📫 Connect With Me
+## Tech Stack
+
+- **Frontend**: Next.js, Tanstack Start, React, Tailwind CSS
+- **WordPress**: Themes, plugins, ACF, Gutenberg, WooCommerce
+- **AI Tools**: OpenCode
+- **AI Models**: DeepSeek, GLM, Minimax
+
+## Let's Work Together
+
+I'm available for freelance projects and full-time roles.
 
 - [LinkedIn](https://linkedin.com/in/gasatrya)
-- [Twitter](https://x.com/gasatrya)
-
----
-
-Best regards,   
-Ga Satrya
+- [Twitter/X](https://x.com/gasatrya)
+- [GitHub](https://github.com/gasatrya)
