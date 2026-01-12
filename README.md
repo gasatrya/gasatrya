@@ -7,14 +7,14 @@ I build fast, conversion-focused websites and web apps using AI to deliver 3x fa
 ## What I Build
 
 - **WordPress Marketing Sites** → Lead-focused, fast-loading, SEO-optimized websites
-- **Modern Web Apps** → Next.js and Tanstack Start applications
+- **Modern Web Apps** → Tanstack Start applications
 - **Block Themes & Plugins** → Custom WordPress solutions
 
 ### Active Projects
 - [CTAflow](https://www.ctaflow.com) — Productized WordPress marketing sites (7–14 day delivery)
-- [Typetap](https://www.typetap.xyz/) — Interactive typing speed test
-- [Predicte](https://github.com/gasatrya/predicte) — VS Code AI code completion extension (in progress)
-- [LLMsModels](https://github.com/gasatrya/llmsmodels) — AI models directory (in progress)
+- [Predicte](https://github.com/gasatrya/predicte) — VS Code AI code completion extension
+- [LLMsModels](https://github.com/gasatrya/llmsmodels) — AI models directory
+- [Typetap](https://www.typetap.xyz/) — Interactive typing speed test (in progress)
 
 ## Why I Use AI
 
@@ -26,10 +26,10 @@ Building with AI tools isn't a shortcut—it's my competitive advantage. I lever
 
 ## Tech Stack
 
-- **Frontend**: Next.js, Tanstack Start, React, Tailwind CSS
+- **Frontend**: Tanstack Start, React, Tailwind CSS
 - **WordPress**: Themes, plugins, ACF, Gutenberg, WooCommerce
-- **AI Tools**: OpenCode
-- **AI Models**: DeepSeek, GLM, Minimax
+- **AI Tools**: OpenCode, Droid
+- **AI Models**: GPT, GLM, Gemini
 
 ## Let's Work Together
 
