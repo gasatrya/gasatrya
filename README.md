@@ -29,9 +29,8 @@ Building with AI tools isn't a shortcut—it's my competitive advantage. I lever
 
 - **Frontend**: Tanstack Start, React, Tailwind CSS
 - **WordPress**: Themes, plugins, ACF, Gutenberg, WooCommerce
-- **AI Tools**: OpenCode, Droid
-- **AI Models**: GPT, GLM, Gemini
-
+- **AI Tools**: Antigravity, Gemini CLI, Jules, Droid, OpenCode 
+- **AI Models**: Gemini, GPT
 ## Let's Work Together
 
 I'm available for freelance projects and full-time roles.
