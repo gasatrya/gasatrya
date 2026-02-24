@@ -14,7 +14,6 @@ I build fast, conversion-focused websites and web apps using AI to deliver 3x fa
 - [CTAflow](https://www.ctaflow.com) — Productized WordPress marketing sites (7–14 day delivery)
 - [Predicte](https://github.com/gasatrya/predicte) — VS Code AI code completion extension
 - [Predicte Commit](https://github.com/gasatrya/predicte-commit) — VS Code AI commit generator extension
-- [LLMsModels](https://github.com/gasatrya/llmsmodels) — AI models directory
 - [Typetap](https://www.typetap.xyz/) — Interactive typing speed test (in progress)
 
 ## Why I Use AI
@@ -29,7 +28,7 @@ Building with AI tools isn't a shortcut—it's my competitive advantage. I lever
 
 - **Frontend**: Tanstack Start, React, Tailwind CSS
 - **WordPress**: Themes, plugins, ACF, Gutenberg, WooCommerce
-- **AI Tools**: Antigravity, Gemini CLI, Jules, Droid, OpenCode 
+- **AI Tools**: Gemini CLI, GitHub Copilot, Jules
 - **AI Models**: Gemini, GPT
 ## Let's Work Together
 
