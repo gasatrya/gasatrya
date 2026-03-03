@@ -13,6 +13,8 @@ My background in **8+ years of WordPress** and modern **Next.js/Tanstack Start**
 - **AI-Accelerated**: I use a custom AI-driven workflow to eliminate boilerplate and focus on your business logic.
 - **Conversion-First**: Every pixel is optimized for Core Web Vitals and Lead Capture.
 
+---
+
 ### 🛠️ Strategic Tech Stack
 
 **Core Engines**  
@@ -23,6 +25,8 @@ My background in **8+ years of WordPress** and modern **Next.js/Tanstack Start**
 
 **The AI Edge**  
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Custom Jules](https://img.shields.io/badge/Jules-FFB800?style=flat-square)
+
+---
 
 ### 💡 Engineering as Marketing (Featured Projects)
 
@@ -37,6 +41,8 @@ A VS Code extension built to supercharge developer productivity.
 #### [Typetap](https://www.typetap.xyz/) — *Performance-Driven UX*
 An interactive typing speed test that demonstrates high-performance web engineering and real-time state management.
 
+---
+
 ### 📊 Proof of Work
 
 <p align="left">
@@ -50,5 +56,5 @@ An interactive typing speed test that demonstrates high-performance web engineer
 If your website isn't converting traffic into revenue, you have a **Lead Leak**. I fix that.
 
 - **Founders & Agencies**: I am available for high-impact freelance projects and strategic partnerships.
-- **Email**: [Add your email here]
-- **Direct**: [Book a 15-min Lead Leak Audit](https://www.ctaflow.com/contact)
+- **Email**: ga[at]ctaflow.com
+- **Direct**: Have a project in mind? [Get in touch!](https://www.ctaflow.com/contact)
