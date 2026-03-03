@@ -6,16 +6,12 @@ I don’t just "build websites." I engineer conversion-focused systems that turn
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gasatrya)
 [![CTAflow](https://img.shields.io/badge/CTAflow-Book_an_Audit-E11D48?style=for-the-badge&logo=strapi&logoColor=white)](https://www.ctaflow.com)
 
----
-
 ### 🚀 The "Founder-Engineer" Advantage
 My background in **8+ years of WordPress** and modern **Next.js/Tanstack Start** development allows me to bridge the gap between complex engineering and business growth.
 
 - **Speed-to-Market**: I deliver production-ready solutions in **7–14 days**, not months.
 - **AI-Accelerated**: I use a custom AI-driven workflow to eliminate boilerplate and focus on your business logic.
 - **Conversion-First**: Every pixel is optimized for Core Web Vitals and Lead Capture.
-
----
 
 ### 🛠️ Strategic Tech Stack
 
@@ -27,8 +23,6 @@ My background in **8+ years of WordPress** and modern **Next.js/Tanstack Start**
 
 **The AI Edge**  
 ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Custom Jules](https://img.shields.io/badge/Jules-FFB800?style=flat-square)
-
----
 
 ### 💡 Engineering as Marketing (Featured Projects)
 
@@ -43,12 +37,10 @@ A VS Code extension built to supercharge developer productivity.
 #### [Typetap](https://www.typetap.xyz/) — *Performance-Driven UX*
 An interactive typing speed test that demonstrates high-performance web engineering and real-time state management.
 
----
-
 ### 📊 Proof of Work
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gasatrya&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="github-stats-extended.vercel.app/api?username=gasatrya&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasatrya&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
