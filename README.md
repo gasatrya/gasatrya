@@ -41,7 +41,7 @@ An interactive typing speed test that demonstrates high-performance web engineer
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=gasatrya&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasatrya&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gasatrya&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
