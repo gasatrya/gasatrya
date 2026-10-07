@@ -1,4 +1,4 @@
-# Marga Satrya
+# Ga Satrya
 
 **WordPress developer & frontend engineer** based in Bandung, Indonesia. I build custom WordPress sites and polished marketing websites for brands and teams, with responsive implementation, purposeful motion, and practical content workflows.
 
